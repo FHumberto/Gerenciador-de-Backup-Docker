@@ -8,6 +8,6 @@ namespace SSV.Console;
 
 public class Settings
 {
-    public List<string> DiretoriosDosVolumes { get; set; }
-    public string DiretorioCloud { get; set; }
+    public List<Dictionary<string, string>>? DiretoriosDosVolumes { get; set; }
+    public string? DiretorioCloud { get; set; }
 }
