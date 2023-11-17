@@ -1,0 +1,11 @@
+{
+    "name": "Catálogo de Cartas",
+    "demo": "blank",
+    "type": "Pessoal",
+    "category": "Infraestrutura",
+    "tech": [
+        "NET",
+        "C#"
+    ],
+    "description": "Projeto de rotina especializado em monitorar e controlar os arquivos de backup dos volumes dos containers docker"
+}
