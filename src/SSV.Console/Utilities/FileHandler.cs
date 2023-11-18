@@ -48,7 +48,7 @@ public static class FileHandler
             }
             else
             {
-                System.Console.WriteLine($"Diretório não existe -> {volumeAlias}: {caminhoVolume}");
+                Logger.LogMessage($"Diretório não existe -> {volumeAlias}: {caminhoVolume}");
             }
         }
     }

@@ -23,12 +23,7 @@ try
         }
     }
 }
-catch (UnauthorizedAccessException ex)
-{
-    Console.WriteLine($"Erro de autorização: {ex.Message}");
-    Console.WriteLine("Certifique-se de que você tem as permissões necessárias para acessar o diretório.");
-}
 catch (Exception ex)
 {
-    Console.WriteLine($"Erro: {ex.Message}");
+    Logger.LogException(ex);
 }
