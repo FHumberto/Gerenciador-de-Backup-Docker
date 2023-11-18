@@ -1,4 +1,4 @@
-﻿namespace SSV.Console;
+﻿namespace SBV.Console;
 
 public class Settings
 {

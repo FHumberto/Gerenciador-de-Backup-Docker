@@ -1,6 +1,6 @@
 ﻿using System.IO.Compression;
 
-namespace SSV.Console.Utilities;
+namespace SBV.Console.Utilities;
 
 public static class FileHandler
 {

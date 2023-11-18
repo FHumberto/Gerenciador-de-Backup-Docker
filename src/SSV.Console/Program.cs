@@ -1,8 +1,8 @@
 ﻿using System.IO.Compression;
 
 using Microsoft.Extensions.Configuration;
-using SSV.Console;
-using SSV.Console.Utilities;
+using SBV.Console;
+using SBV.Console.Utilities;
 
 IConfigurationRoot config = new ConfigurationBuilder()
             .AddJsonFile("appsettings.json")
