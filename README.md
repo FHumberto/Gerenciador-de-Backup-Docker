@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="#%EF%B8%8F-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-como-rodar">Como rodar</a>
 </p>
 
 ## 💻 Projeto
@@ -19,3 +20,10 @@ containerizados.
 Esse projeto foi desenvolvido com as seguinte tecnologia:
 
 - .NET 8.0
+
+## ⚙️ Como Rodar
+
+Para executar a aplicação, simplesmente faça o download da versão mais recente e ajuste as configurações no arquivo "appsettings" de acordo com seus diretórios. Em seguida, inicie a aplicação.
+
+![image](https://github.com/FHumberto/Gerenciador-de-Backup-Docker/assets/7258900/d879f0c0-d26d-4cbd-af52-0de79b19c699)
+ 
