@@ -1,11 +1,12 @@
 {
     "name": "Sincronizador de Volumes",
-    "demo": "blank",
+    "cover": "",
+    "demo": "",
     "type": "Pessoal",
     "category": "Infraestrutura",
+    "description": "Projeto especializado em monitorar e controlar os arquivos de backup dos volumes dos containers docker",
     "tech": [
-        "NET",
-        "C#"
-    ],
-    "description": "Projeto de rotina especializado em monitorar e controlar os arquivos de backup dos volumes dos containers docker"
+        "C#",
+        "NET-8"
+    ]
 }
